@@ -73,7 +73,7 @@ Image storage: Cloudinary
 
 Styling: Tailwind / CSS (project has utility classes ready)
 
-Host: Vercel (recommended)
+Host: Vercel: https://ecommerce-admin-azure-three.vercel.app/
 
 
 
